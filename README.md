@@ -1,2 +1,2 @@
 # Everis
-Repository created for Everis Bootcamp
+Repository created for Everis' Bootcamp
